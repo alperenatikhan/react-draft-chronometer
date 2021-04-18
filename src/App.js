@@ -29,7 +29,7 @@ export default function App() {
 
   return (
     <div>
-      <h1>Hello StackBlitz!</h1>
+      <h1>Chronometer Draft</h1>
       <p> {`${Math.floor((600 - count) / 60)} : ${(600 - count) % 60}`}</p>
       <button onClick={startHandler}>Start</button>
       <button onClick={stopHandler}>Pause</button>
