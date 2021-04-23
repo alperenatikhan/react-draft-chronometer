@@ -36,7 +36,6 @@ button{
 
 #session-chronometer{
 display:flex;
-width:80%;
 margin:3vh 5vw 0 5vw;
 flex-direction: row;
 justify-content: space-evenly;
