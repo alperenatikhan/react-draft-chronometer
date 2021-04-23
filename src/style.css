@@ -13,3 +13,40 @@ p {
 h1 {
   font-size: 1.5rem;
 }
+
+#break-display{
+  margin-top: 5vh;
+
+  display:flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+#session-display{
+  margin-top: 2vh;
+  display:flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+button{
+  border-radius: 15%;
+  height: 1.75em;
+}
+
+#session-chronometer{
+display:flex;
+width:80%;
+margin:3vh 5vw 0 5vw;
+flex-direction: row;
+justify-content: space-evenly;
+}
+
+#break-chronometer{
+display:flex;
+width:80%;
+margin: 0 5vw 1vh 5vw;
+flex-direction: row;
+justify-content: space-evenly;
+}
+

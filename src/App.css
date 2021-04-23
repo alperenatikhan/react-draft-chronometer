@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  color:rgb(245, 146, 223)
+}
+
+#break-display{
+  display:flex;
+  flex-direction: column;
+}
+
+#session-display{
+  display:flex;
+    flex-direction: column;
+}
+
+#session-chronometer{
+display:flex;
+flex-direction: column;
+
+}
